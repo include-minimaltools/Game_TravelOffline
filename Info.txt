@@ -1,0 +1,18 @@
+	   Universidad Nacional de Ingenieria
+	
+	Facultad de Electrotecnia y Computacion
+
+		Geometria Computacional
+
+	     Proyecto de Primitivos Graficos
+		     Turbo C 2.0
+
+Desarrolladores:
++ Marcel Emmanuel Díaz Largaespada	2020 - 1384U
++ Gabriel Alejandro Ortíz Amador	2020 - 0325U
++ Luis Miguel Pineda Joseph		2020 - 0251U
++ Obed Isai Rios Solano			2020 - 0331U
++ Engel Gabriel Reyes Moreno		2020 - 0505U
++ Ronaldo Fabián Román Aráuz		2020 - 0375U
+
+Grupo 2M1 - CO
